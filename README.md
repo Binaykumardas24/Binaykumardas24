@@ -126,10 +126,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Binaykumardas24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Binaykumardas24&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 # 🔥 GitHub Contribution Streak
