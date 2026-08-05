@@ -5,11 +5,13 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Business+Intelligence;AI+for+Data+Analytics;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Business+Intelligence+Enthusiast;Turning+Data+Into+Business+Insights;Always+Learning+AI+%26+Analytics" />
 </p>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Binaykumardas24&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -20,23 +22,21 @@
 
 📊 Passionate about Data Analytics & Business Intelligence
 
-📈 Analyzed **60,000+ records** across multiple domains
+📈 Analyzed **60,000+ records**
 
-📊 Built **40+ KPIs** and Interactive Dashboards
+📉 Built **40+ KPIs**
 
-💻 Skilled in **SQL, Python, Power BI, Excel & AI Tools**
+📊 Developed interactive dashboards using SQL, Python & Power BI
 
-🚀 Currently learning **Advanced SQL, Python & AI for Analytics**
+🚀 Currently learning AI for Data Analytics
 
-💼 Open to **Data Analyst | Business Analyst | BI Analyst** Opportunities
-
-📍 Hyderabad, India
+💼 Open to Data Analyst Opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-### 💾 Database
+## 💾 Database
 
 <p>
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 🐍 Programming
+## 🐍 Python
 
 <p>
 
@@ -58,7 +58,7 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 Business Intelligence
+## 📊 Power BI
 
 <p>
 
@@ -82,31 +82,29 @@
 
 ---
 
-### 📑 Excel
+## 📑 Excel
 
 <p>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
-<img src="https://img.shields.io/badge/Pivot_Tables-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XLOOKUP-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/XLOOKUP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pivot_Table-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/VLOOKUP-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/INDEX--MATCH-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced_Formulas-red?style=for-the-badge"/>
 
 </p>
 
 ---
 
-### 🤖 AI Tools
+## 🤖 AI Tools
 
 <p>
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai"/>
 
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=githubcopilot"/>
 
 <img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge"/>
 
@@ -116,21 +114,28 @@
 
 # 🚀 Featured Projects
 
-| Project | Technologies |
-|----------|--------------|
-| 🚖 OLA Ride Data Analysis | SQL • Power BI • Excel • DAX |
-| 🏦 Bank Loan Analysis | Python • Pandas • Plotly |
+| Project | Tools |
+|----------|-------|
+| 🚖 OLA Ride Data Analysis | SQL • Power BI • Excel |
 | 👨‍💼 HR Analytics Dashboard | Power BI • DAX • Excel |
-| 🛒 Superstore Sales Analysis | SQL • Power BI • Excel |
-| 🎬 Netflix Data Analysis | Python • SQL • Power BI |
+| 🏦 Bank Loan Analysis | Python • Pandas • Plotly |
+| 🛒 E-commerce Sales Dashboard | SQL • Power BI • Excel |
 
 ---
 
+# 📈 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Binaykumardas24&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binaykumardas24&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binaykumardas24&layout=compact&theme=tokyonight"/>
+
 </p>
 
-# 🔥 GitHub Contribution Streak
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -150,42 +155,34 @@
 
 ---
 
-# 📂 Featured Repositories
+# 📫 Connect with Me
 
-⭐ OLA_Data_Analyst_Project
-
-⭐ BANK_LOAN_ANALYSIS_PROJECT
-
-⭐ Superstore_Analysis_project
-
-⭐ Netflix_Data_Analysis-Project
-
-⭐ HR_Analytics_Dashboard
-
-⭐ SQL Practice Repository
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
+<p>
 
 <a href="mailto:dasbinay561@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/binaykumardas24">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 <a href="https://github.com/Binaykumardas24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
 
 ---
 
-<h2 align="center">
+<h3 align="center">
+
 ⭐ Turning Data Into Actionable Business Insights Through SQL, Python, Power BI & AI ⭐
-</h2>
+
+</h3>
