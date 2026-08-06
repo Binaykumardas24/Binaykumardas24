@@ -241,3 +241,29 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3&section=footer"/>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h2>
+
+<p align="center">
+
+<i>"Turning Data into Business Insights with SQL, Python, Power BI & AI."</i> 🚀
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
