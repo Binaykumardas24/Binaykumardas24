@@ -16,6 +16,32 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Binay Kumar Das</h1>
+
+<h3 align="center">
+📊 Data Analyst | SQL | Python | Power BI | Excel | AI | Business Intelligence
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Business+Insights;Always+Learning+New+Technologies" />
+</p>
+
+<!-- 👇 Paste the animated GIF here -->
+
+<p align="center">
+<img src="YOUR_GIF_LINK_HERE" width="700"/>
+</p>
+
+---
+
+# 🚀 About Me
+
+| | |
+|:---:|:---|
+| 🌱 | I'm currently learning **Advanced SQL, Python, Power BI, Microsoft Fabric & AI for Data Analytics** |
+| 📊 | Passionate about **Data Analytics, Business Intelligence & Data Visualization** |
+| 💼 | Open to **Data Analyst Opportunities** |
+
 # 🚀 About Me
 
 | | |
