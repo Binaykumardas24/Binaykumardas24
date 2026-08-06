@@ -8,22 +8,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Business+Insights;Always+Learning+New+Technologies" />
 </p>
 
-<!-- 👇 Paste the animated GIF here -->
+<!-- Animated GIF -->
 
 <p align="center">
-<img src="[YOUR_GIF_LINK_HERE](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjMwMDQsIm5iZiI6MTc4NjAyMjcwNCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEzMjUwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiMmEzNTZhYWVhZWViOTYwNDkyZDlmZGE0YTkxMWEwYjdhNTA4NWVkZmU5Yzc2MDY1YjVhMWNiMWE0ZGE4MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.jV4ITy_Zgv9uazqYeQCLQJsuxAz2FBHHW-5OgXXPuPo)" width="700"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="700" alt="Animated Hello"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-| | |
-|:---:|:---|
-| 🌱 | I'm currently learning **Advanced SQL, Python, Power BI, Microsoft Fabric & AI for Data Analytics** |
-| 📊 | Passionate about **Data Analytics, Business Intelligence & Data Visualization** |
-| 💼 | Open to **Data Analyst Opportunities** |
-
+---
 # 🚀 About Me
 
 | | |
