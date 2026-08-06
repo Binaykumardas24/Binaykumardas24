@@ -16,21 +16,18 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 B.Tech in Computer Science & Engineering
-
-📊 Passionate about Data Analytics & Business Intelligence
-
-📈 Analyzed **60,000+ records**
-
-📉 Built **40+ KPIs**
-
-📊 Developed interactive dashboards using SQL, Python & Power BI
-
-🚀 Currently learning AI for Data Analytics
-
-💼 Open to Data Analyst Opportunities
+| | |
+|:---:|:---|
+| 🌱 | I'm currently learning **Advanced SQL, Python, Power BI, Microsoft Fabric & AI for Data Analytics** |
+| 📊 | Passionate about **Data Analytics, Business Intelligence & Data Visualization** |
+| 🤝 | I'm looking to collaborate on **SQL, Python, Power BI & Data Analytics Projects** |
+| 💼 | I'm actively seeking **Data Analyst Opportunities (Internship / Full-Time)** |
+| 💬 | Ask me about **SQL, Python, Excel, Power BI, Pandas, NumPy & Data Analytics** |
+| 📧 | Reach me at **<a href="mailto:dasbinay561@gmail.com">dasbinay561@gmail.com</a>** |
+| 🌐 | LinkedIn: **<a href="https://www.linkedin.com/in/binaykumardas24" target="_blank">www.linkedin.com/in/binaykumardas24 ↗</a>** |
+| 📄 | Resume: **<a href="https://drive.google.com/file/d/1I8rjGc5lXWuvttSLKdDchAxR2sygcAE5/view?usp=drive_link" target="_blank">View My Resume ↗</a>** |
 
 ---
 # 💻 Tech Stack
