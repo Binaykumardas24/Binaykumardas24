@@ -33,83 +33,91 @@
 💼 Open to Data Analyst Opportunities
 
 ---
+## 🛠️ Languages • Tools • Technologies
 
-# 🛠 Tech Stack
+<p align="center">
 
-## 💾 Database
+<a href="https://www.python.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
 
-<p>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48"/>
+</a>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="48"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" height="48"/>
+</a>
+
+<a href="https://learn.microsoft.com/power-query/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerquery" height="48"/>
+</a>
+
+<a href="https://learn.microsoft.com/dax/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dax" height="48"/>
+</a>
+
+<a href="https://learn.microsoft.com/fabric/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=microsoftfabric" height="48"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://chat.openai.com/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
+</a>
+
+<a href="https://gemini.google.com/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
+</a>
+
+<a href="https://copilot.microsoft.com/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=copilot" height="48"/>
+</a>
+
+<a href="https://www.kaggle.com/" target="_blank">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" height="48"/>
+</a>
 
 </p>
-
----
-
-## 🐍 Python
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-
-</p>
-
----
-
-## 📊 Power BI
-
-<p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DAX-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Modeling-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📑 Excel
-
-<p>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-
-<img src="https://img.shields.io/badge/XLOOKUP-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pivot_Table-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Advanced_Formulas-red?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🤖 AI Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai"/>
-
-<img src="https://img.shields.io/badge/GitHub_Copilot-black?style=for-the-badge&logo=githubcopilot"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 🚀 Featured Projects
