@@ -97,9 +97,13 @@
 
 <p align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=copilot" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48" alt="ChatGPT"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48" alt="Google Gemini"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=copilot" height="48" alt="Microsoft Copilot"/>
 
 </p>
 
@@ -109,8 +113,11 @@
 
 <p align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48" alt="Power BI"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" height="48" alt="Kaggle"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" height="48" alt="Tableau"/>
 
 </p>
 
