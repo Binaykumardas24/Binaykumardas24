@@ -192,3 +192,27 @@
 <h3 align="center">
 
 ⭐ Turning Data Into Actionable Business Insights Through SQL, Python, Power BI & AI ⭐
+
+---
+
+## 🧲 My Contributions
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binaykumardas24&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 📍 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Binaykumardas24&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3&section=footer"/>
