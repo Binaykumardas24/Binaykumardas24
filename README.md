@@ -1,3 +1,7 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:1E3A8A&height=300&section=header&text=Binay%20Kumar%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descAlign=50"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Binay Kumar Das</h1>
 
 <h3 align="center">
