@@ -33,89 +33,96 @@
 💼 Open to Data Analyst Opportunities
 
 ---
-## 🛠️ Languages • Tools • Technologies
+# 💻 Tech Stack
 
-<p align="center">
+## 🐍 Programming Languages
 
-<a href="https://www.python.org" target="_blank">
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-
-<a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="48"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" height="48"/>
-</a>
-
-<a href="https://learn.microsoft.com/power-query/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerquery" height="48"/>
-</a>
-
-<a href="https://learn.microsoft.com/dax/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dax" height="48"/>
-</a>
-
-<a href="https://learn.microsoft.com/fabric/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=microsoftfabric" height="48"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
-</a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
+</p>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+---
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" />
-</a>
+## 🗄️ Databases
 
-<a href="https://chat.openai.com/" target="_blank">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48"/>
+
+</p>
+
+---
+
+## 📊 Data Analytics & Business Intelligence
+
+<p align="left">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerquery" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dax" height="48"/>
+
+</p>
+
+---
+
+## 📈 Data Science Libraries
+
+<p align="left">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" height="48"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & Data Platform
+
+<p align="left">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=microsoftfabric" height="48"/>
+
+</p>
+
+---
+
+## 🤖 AI Tools
+
+<p align="left">
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
-</a>
-
-<a href="https://gemini.google.com/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
-</a>
-
-<a href="https://copilot.microsoft.com/" target="_blank">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=copilot" height="48"/>
-</a>
 
-<a href="https://www.kaggle.com/" target="_blank">
+</p>
+
+---
+
+## 📚 Learning & Visualization
+
+<p align="left">
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" height="48"/>
-</a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" height="48"/>
+
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 ---
