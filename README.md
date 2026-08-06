@@ -195,11 +195,11 @@
 
 ---
 
-## 🧲 My Contributions
+## 🐍 My Contributions
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binaykumardas24&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Binaykumardas24/Binaykumardas24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
 
