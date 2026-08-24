@@ -30,7 +30,7 @@
 | 💬 | Ask me about **SQL, Python, Excel, Power BI, Pandas, NumPy & Data Analytics** |
 | 📧 | Reach me at **<a href="mailto:dasbinay561@gmail.com">dasbinay561@gmail.com</a>** |
 | 🌐 | LinkedIn: **<a href="https://www.linkedin.com/in/binaykumardas24" target="_blank">www.linkedin.com/in/binaykumardas24 ↗</a>** |
-| 📄 | Resume: **<a href="https://drive.google.com/file/d/1I8rjGc5lXWuvttSLKdDchAxR2sygcAE5/view?usp=drive_link" target="_blank">View My Resume ↗</a>** |
+| 📄 | Resume: <a href="https://drive.google.com/file/d/1I8rjGc5lXWuvttSLKdDchAxR2sygcAE5/view?usp=drive_link" target="_blank">View My Resume ↗</a> |
 
 ---
 # 💻 Tech Stack
