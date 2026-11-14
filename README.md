@@ -191,18 +191,6 @@ I'm always interested in learning, collaborating on analytical projects, and exp
 
 ---
 
----
-
-## 🧲 My Contributions
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binaykumardas24&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 ## 📍 Visitor Count
 
 <p align="center">
