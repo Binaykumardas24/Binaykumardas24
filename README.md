@@ -33,105 +33,78 @@
 | 📄 | <b>Resume:</b> <a href="https://drive.google.com/file/d/1R7nPOj1Y-L5Vncc3kzfiBGwLpBwrP81f/view?usp=drive_link" target="_blank">View My Resume</a> |
 
 ---
-# 💻 Tech Stack
 
-## 🐍 Programming Languages
+# Hi, I'm Binay Kumar Das 👋
+
+### Aspiring Data Analyst | SQL | Power BI | Advanced Excel | Python | Business Intelligence
+
+I am a 2026 B.Tech Computer Science graduate passionate about Data Analytics, Business Intelligence, and transforming raw data into meaningful insights.
+
+---
+
+### 🔗 Find Me
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" height="48"/>
-
+  <a href="https://www.linkedin.com/in/binaykumardas24/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🗄️ Databases
+### 💻 Tech I Have Used
+
+**Core Skills**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=flat-square" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="48"/>
+**Tools & Technologies**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Visualization-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analytics-228B22?style=flat-square" />
 </p>
 
 ---
 
-## 📊 Data Analytics & Business Intelligence
+### 📊 What I Focus On
 
-<p align="left">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerquery" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dax" height="48"/>
-
-</p>
+- Data Cleaning and Transformation
+- SQL Querying and Database Management
+- Interactive Power BI Dashboards
+- Advanced Excel Reporting
+- Python-Based Data Analysis
+- Business Intelligence and KPI Reporting
 
 ---
 
-## 📈 Data Science Libraries
+### 🚀 Let's Connect
 
-<p align="left">
+I'm always interested in learning, collaborating on analytical projects, and exploring opportunities in Data Analytics and Business Intelligence.
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" height="48"/>
 
-</p>
-
----
-
-## ☁️ Cloud & Data Platform
-
-<p align="left">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=microsoftfabric" height="48"/>
-
-</p>
-
----
-
-## 🤖 AI Tools
-
-<p align="left">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48" alt="ChatGPT"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48" alt="Google Gemini"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=copilot" height="48" alt="Microsoft Copilot"/>
-
-</p>
-
----
-
-## 📚 Learning & Visualization
-
-<p align="left">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="48" alt="Power BI"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" height="48" alt="Kaggle"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" height="48" alt="Tableau"/>
-
-</p>
-
----
-
-## 🛠️ Developer Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
 ---
 
 # 🚀 Featured Projects
