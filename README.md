@@ -233,65 +233,6 @@ I'm always interested in learning, collaborating on analytical projects, and exp
 
 </p>
 
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Binaykumardas24&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📫 Connect with Me
-
-<p>
-
-<a href="mailto:dasbinay561@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/binaykumardas24">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://github.com/Binaykumardas24">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Turning Data Into Actionable Business Insights Through SQL, Python, Power BI & AI ⭐
-
----
-
-## 📍 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Binaykumardas24&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
-
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3&section=footer"/>
-
----
-
 ## 💡 Quote
 
 <p align="center">
